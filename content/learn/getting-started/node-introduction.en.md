@@ -73,6 +73,16 @@ We set the Content-Type header:
 
 ```js
 res.setHeader('Content-Type', 'text/plain');
+
+https://suvi.com.au/
+https://suvi.com.au/products/sous-vide-cooker
+https://suvi.com.au/products/sous-vide-vacuum-sealer
+
+
+
+
+
+
 ```
 
 and we close the response, adding the content as an argument to `end()`:
